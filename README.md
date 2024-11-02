@@ -51,3 +51,12 @@ Once the server and frontend are running:
 
 - Visit http://localhost:5173 to view the application.
 - Make sure server runs on http://localhost:3000 at the same time.
+
+### Description
+
+- Frontend built with React and lucide-react, backend using MySQL, Sequelize, Express.js, Node.js, and ExcelJS.
+- Accepts a form for name, country code, and phone number with Yup validation.
+- Features error handling and submission status alerts.
+- Proper error handling, and form status alert to the user
+- Stores user information in a database with an option to download the latest Excel sheet.
+- Intuitive and engaging UI design.
